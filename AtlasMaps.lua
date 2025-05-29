@@ -269,6 +269,27 @@ AtlasMaps = {
 		{ GREY..INDENT..AL["Trash Mobs"] };
 		{ GREY..INDENT..AL["LKH Enchants"] };
 	};
+    UpperKara = {
+		ZoneName = { AL["Tower of Karazhan"], };
+		Acronym = "Kara40";
+		Location = { AL["Deadwind Pass"], 41};
+		LevelRange = "60";
+		MinLevel = "60";
+		PlayerLimit = "40";
+		Continent = AL["Eastern Kingdoms"];
+		{ BLUE.."A) "..AL["Entrance"] };
+		{ BLUE.."B) "..AL["Connection"] };
+		{ GREY.."1) "..AL["Keeper Gnarlmoon"], NPC, -1 };
+		{ GREY.."2) "..AL["Ley-Watcher Incantagos"], NPC, -1 };
+		{ GREY.."3) "..AL["Anomalus"], NPC, -1 };
+		{ GREY.."4) "..AL["Echo of Medivh"], NPC, -1 };
+		{ GREY.."5) "..AL["King"], NPC, -1 };
+		{ GREY.."6) "..AL["Sanv Tas'dal"], NPC, -1 };
+		{ GREY.."7) "..AL["Rupturan the Broken"], NPC, -1 };
+		{ GREY.."8) "..AL["Kruul"], NPC, -1 };
+		{ GREY.."9) "..AL["Mephistroth"], NPC, -1 };
+		{ GREY..INDENT..AL["Trash Mobs"] };
+	};
 		--EmeraldSanctum TurtleWOW
 	EmeraldSanctum = {
 		ZoneName = { AL["Emerald Sanctum"],  };
