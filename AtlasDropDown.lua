@@ -75,6 +75,7 @@ Atlas_DropDownLayouts = {
 			"BlackrockSpireLower",
 			"BlackrockSpireUpper",
 			"BlackwingLair",
+			"DragonmawRetreat",
 			"Gnomeregan",
 			"GilneasCity", -- TurtleWOW 1.17.0
 			"HateforgeQuarry", -- TurtleWOW
@@ -91,6 +92,7 @@ Atlas_DropDownLayouts = {
 			"SMLibrary",
 			"Stratholme",
 			"StormwindVault", -- TurtleWOW
+			"StormwroughtRuins",
 			"TheDeadmines",
 			"TheStockade",
 			"TheSunkenTemple",
@@ -167,6 +169,7 @@ Atlas_DropDownLayouts = {
 			"DireMaulEnt",
 			"DireMaulNorth",
 			"DireMaulWest",
+			"DragonmawRetreat",
 			"GilneasCity", -- TurtleWOW 1.17.0
 			"HateforgeQuarry", -- TurtleWOW
 			"Scholomance",
@@ -185,6 +188,7 @@ Atlas_DropDownLayouts = {
 			"SMGraveyard",
 			"SMLibrary",
 			"StormwindVault", --TurtleWOW
+			"StormwroughtRuins",
 			"TheStockade",
 			"TheSunkenTemple",
 			"Uldaman",
@@ -263,6 +267,7 @@ Atlas_DropDownLayouts = {
 			"DireMaulEast",
 			"DireMaulNorth",
 			"DireMaulWest",
+			"DragonmawRetreat",
 			"Gnomeregan",
 			"GilneasCity", -- TurtleWOW 1.17.0
 			"HateforgeQuarry", -- TurtleWOW
@@ -279,6 +284,7 @@ Atlas_DropDownLayouts = {
 			"SMGraveyard",
 			"SMLibrary",
 			"StormwindVault", --TurtleWOW
+			"StormwroughtRuins",
 			"Stratholme",
 			"TheStockade",
 			"TheSunkenTemple",

@@ -611,8 +611,6 @@ end
 --we can basically assume that there's a match
 --find it, set it, then update menus and the maps
 function AtlasSwitchButton_OnClick()
-	local zoneID = ATLAS_DROPDOWNS[AtlasOptions.AtlasType][AtlasOptions.AtlasZone];
-
 	if (getn(ATLAS_INST_ENT_DROPDOWN) == 1) then
 		--one link, so we can just go there right away
 		AtlasSwitchDD_Set(1);
@@ -623,7 +621,7 @@ function AtlasSwitchButton_OnClick()
 end
 
 function AtlasSwitchDD_OnLoad()
-	local info, i;
+	local info;
 	for k, v in pairs(ATLAS_INST_ENT_DROPDOWN) do
 		info = {
 			text = AtlasMaps[v].ZoneName[1],
@@ -660,7 +658,7 @@ end
 --Function used to initialize the map type dropdown menu
 --Cycle through Atlas_MapTypes to populate the dropdown
 function AtlasFrameDropDownType_Initialize()
-	local info, i;
+	local info;
 	local catName = Atlas_DropDownLayouts_Order[AtlasOptions.AtlasSortBy];
 	local subcatOrder = Atlas_DropDownLayouts_Order[catName];
 	for i = 1, getn(subcatOrder), 1 do
