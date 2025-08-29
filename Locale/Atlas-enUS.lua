@@ -1411,6 +1411,8 @@ Dependencies: AceLibrary, AceLocale-2.2
 	["Searistrasz"] = true,
 	["Web Master Torkon"] = true,
 	["Zuluhed the Whacked"] = true,
+	["Slagfist Destroyer"] = true,
+	["Overlord Blackheart"] = true,
 	
 	["Stormwrought Ruins"] = true,
 	["Balor"] = true,

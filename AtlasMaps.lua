@@ -641,9 +641,13 @@ AtlasMaps = {
 		{ GREY.."3) "..AL["Web Master Torkon"] };
 		{ GREY.."4) "..AL["Garlok Flamekeeper"] };
 		{ GREY.."5) "..AL["Halgan Redbrand"] };
-		{ GREY.."6) "..AL["Elder Hollowblood"] };
-		{ GREY.."7) "..AL["Searistrasz"] };
-		{ GREY.."8) "..AL["Zuluhed the Whacked"] };
+		{ GREY.."6) "..AL["Slagfist Destroyer"] };
+		{ GREY.."7) "..AL["Overlord Blackheart"] };
+		{ GREY.."8) "..AL["Elder Hollowblood"] };
+		{ GREY.."9) "..AL["Searistrasz"] };
+		{ GREY.."10) "..AL["Zuluhed the Whacked"] };
+		{ "" };
+		{ GREY..INDENT..AL["Trash Mobs"] };
 	};
 	StormwroughtRuins = {
 		ZoneName = { AL["Stormwrought Ruins"]};
@@ -668,6 +672,8 @@ AtlasMaps = {
 		{ GREY.."11) "..AL["Remains of the Innocent"] };
 		{ GREY.."12) "..AL["Mergothid"] };
 		{ GREY..INDENT..AL["Ighal'for"] };
+		{ "" };
+		{ GREY..INDENT..AL["Trash Mobs"] };
 	};
 	BlackrockDepths = {
 		ZoneName = { AL["Blackrock Depths"], 1584 };
