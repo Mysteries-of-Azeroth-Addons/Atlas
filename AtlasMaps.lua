@@ -1195,13 +1195,13 @@ AtlasMaps = {
 		Continent = AL["Eastern Kingdoms"];
 		{ BLUE.."A) "..AL["Entrance"] };
 		{ BLUE.."B) "..AL["Exit"] };
-		{ GREY.."1) ".."Jared Voss", NPC, -1};
+		{ GREY.."1) "..AL["Jared Voss"], NPC, -1};
 		{ GREY.."2) "..AL["Rhahk'Zor"], NPC, 644 };
 		{ GREY.."3) "..AL["Miner Johnson"].." ("..AL["Rare"]..")", NPC, 3586 };
 		{ GREY.."4) "..AL["Sneed"], NPC, 643 };
 		{ GREY..INDENT..AL["Sneed's Shredder"], NPC, 642 };
 		{ GREY.."5) "..AL["Gilnid"], NPC, 1763 };
-		{ GREY.."6) ".."Masterpiece Harvester", NPC, -1};
+		{ GREY.."6) "..AL["Masterpiece Harvester"], NPC, -1};
 		--{ GREY.."7) "..AL["Defias Gunpowder"], OBJECT, 17155 };
 		{ GREY.."7) "..AL["Mr. Smite"], NPC, 646 };
 		{ GREY.."8) "..AL["Cookie"], NPC, 645 };
@@ -1520,24 +1520,24 @@ AtlasMaps = {
 		{ GREY.."2) "..AL["Nethergarde Keep"] };
 	};
 	Nerubian = {
-		ZoneName = { "Nerubian Overseer", NPC, 16184 };
+		ZoneName = { AL["Nerubian Overseer"], NPC, 16184 };
 		Location = { AL["Eastern Plaguelands"], ZONE, 139 };
-		{ GREY.."1) ".."Nerubian Overseer", NPC, 16184 };
+		{ GREY.."1) "..AL["Nerubian Overseer"], NPC, 16184 };
 	};
 	Reaver = {
-		ZoneName = { "Dark Reaver of Karazhan", NPC, 80936 };
+		ZoneName = { AL["Dark Reaver of Karazhan"], NPC, 80936 };
 		Location = { AL["Deadwind Pass"], ZONE, 41 };
-		{ GREY.."1) ".."Dark Reaver of Karazhan", NPC, 80936 };
+		{ GREY.."1) "..AL["Dark Reaver of Karazhan"], NPC, 80936 };
 	};
 		Ostarius = {
-		ZoneName = { "Ostarius", NPC, 80935 };
+		ZoneName = { AL["Ostarius"], NPC, 80935 };
 		Location = { AL["Tanaris"], ZONE, 440 };
-		{ GREY.."1) ".."Ostarius", NPC, 80935 };
+		{ GREY.."1) "..AL["Ostarius"], NPC, 80935 };
 	};
 		Concavius = {
-		ZoneName = { "Concavius", NPC, 92213 };
+		ZoneName = { AL["Concavius"], NPC, 92213 };
 		Location = { AL["Desolace"], ZONE, 405 };
-		{ GREY.."1) ".."Concavius", NPC, 92213 };
+		{ GREY.."1) "..AL["Concavius"], NPC, 92213 };
 	};
 	CowKing = {
 		ZoneName = { AL["Moo"], NPC, 91799 };

@@ -817,6 +817,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 	["Lethon"] = true;
 	-- TurtleWOW
 	["Nerubian"] = true;
+	["Nerubian Overseer"] = true;
 	["Reaver"] = true;
 	["Ostarius"] = true;
 	["Concavius"] = true;
@@ -905,6 +906,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 	["Instructor Malicia"] = true;
 	["Jammal'an the Prophet"] = true;
 	["Jandice Barov"] = true;
+	["Jared Voss"] = true;
 	["King Gordok"] = true;
 	["Kirtonos the Herald"] = true;
 	["Lady Illucia Barov"] = true;
@@ -1177,6 +1179,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 	["Elder Mottled Boar"] = true;
 	["Ancient Core Hound"] = true;
 	["Sorcerer Ashcrombe"] = true;
+	["Masterpiece Harvester"] = true;
 
 --[[
 Name: Babble-Zone-2.2
